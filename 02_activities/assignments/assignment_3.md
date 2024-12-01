@@ -7,17 +7,46 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        For the bad data visualization example:
+        https://www.behance.net/gallery/18012809/Ales-Agglomration-Evolution-de-la-population
 
+        Accessibility:
+        The chart lacks a clear legend or explanation for the use of colors and visual elements, making it difficult to interpret​. The absence of proper annotations and a clean design increases the cognitive load for
+        users, particularly for those with visual impairments or non-expert viewers​.
 
+        Reproducibility:
+        There is no indication of the data source or the specific code used to generate the chart, making it impossible to reproduce​. Without recorded data and visualization processes, it is challenging to verify the
+        chart’s accuracy and completeness​.
 
+        Equity:
+        The radial design fails to emphasize some years equally, which might bias the interpretation towards certain years while ignoring others​. This design can mislead viewers and does not ensure a balanced
+        representation of all data points.
+        ```
+        ```
+        For the good data visualization example:
+        https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday
+        
+        Accessibility:
+        The chart uses a common bar chart format that is straightforward and easy to interpret, with clear color contrasts suitable for most users​. This reduces cognitive load and enhances visual clarity​.
+
+        Reproducibility:
+        The chart includes clear numerical data and sources, making it straightforward to replicate using code​. This transparency aligns with academic and professional standards, facilitating verification​.
+
+        Equity:
+        The design evenly displays data for all months without bias or omission​. This ensures that viewers can understand the birth distribution across all months equally, regardless of their background.
+       
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
-
-
-
+        For the bad data visualization example:
+        1. Include a clear legend and color explanation to reduce cognitive load and make the chart more user-friendly​.
+        2. Provide access to the data source and code to ensure reproducibility and transparency​.
+        3. Adjust the design to balance the representation of all years, preventing any data points from being overlooked​.
+        ```
+        ```
+        For the good data visualization example:
+        1. Add a descriptive title or annotations to enhance accessibility for non-expert audiences​.
+        2. Optimize the color scheme for viewers with colorblindness or other visual impairments​.
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
