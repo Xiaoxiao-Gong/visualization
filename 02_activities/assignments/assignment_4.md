@@ -6,7 +6,9 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
-- For each visualization, describe and justify: 
+- For each visualization, describe and justify:
+- # All my assignment-4 are in this folder: `02_activities/assignments/assignment_4`
+
     > What software did you use to create your data visualization?
 
     > Who is your intended audience? 
